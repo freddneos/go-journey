@@ -1,4 +1,4 @@
-###  Fredd Neos (https://linkedin.com/in/fredericobezerra)[https://linkedin.com/in/fredericobezerra]
+###  Fredd Neos [https://linkedin.com/in/fredericobezerra](https://linkedin.com/in/fredericobezerra)
 
 
 # Go Learning Path - Projects & ToDo List
